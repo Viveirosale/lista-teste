@@ -1,0 +1,30 @@
+body{   
+    margin: 50px;
+    width: 610px;
+}
+h1{
+    background-color: rgb(78, 203, 235);
+    border-radius: 30px;
+    padding: 5px;
+    text-align: center;
+}
+h2{
+    background-color: rgb(78, 203, 235);
+    padding: 5px;
+    border-radius: 30px;
+    text-align: center;
+}
+ul{
+    background-color: antiquewhite;
+    list-style-type: square; 
+    list-style-position: inside;
+    border-radius: 7px;
+    margin-left: 25px;
+    width: 200px;
+    font-family: sans-serif;
+}
+ul li:hover{
+    background-color: rgb(141, 141, 140);
+    font-size: 17px;
+    color: white;   
+}
